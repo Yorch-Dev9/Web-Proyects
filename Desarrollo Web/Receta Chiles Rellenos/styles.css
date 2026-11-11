@@ -1,0 +1,30 @@
+h1
+{
+    text-align: center;
+    margin: 10px;
+}
+
+body
+{
+    background-color: #5de32c;
+}
+
+img
+{
+    height: 500px;
+    display: block;
+    margin: auto;
+}
+
+.instrucciones
+{
+    background-color: #d3a11a;
+    text-align: justify;
+    padding: 10px;
+}
+
+
+
+
+
+
