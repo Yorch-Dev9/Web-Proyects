@@ -1,0 +1,41 @@
+h1
+{
+    text-align: center;
+    margin: 1rem;
+}
+
+body
+{
+    background-color: #bdf0a3;
+}
+
+img
+{
+    width: 80%;
+    max-width: 600px;
+    height: auto;
+    display: block;
+    margin: auto;
+    border-radius: 10px;
+}
+
+.instrucciones
+{
+    max-width: 95%;
+    margin: auto;
+    background-color: #f1ff71;
+    text-align: justify;
+    padding: 1rem;
+    border-radius: 10px;
+}
+
+footer
+{
+    margin-top: 2rem;
+    text-align: center;
+}
+
+
+
+
+
